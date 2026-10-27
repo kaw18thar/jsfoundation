@@ -1,0 +1,31 @@
+let score = 102;
+let bonus = 25;
+
+let totalScore = score + bonus;
+console.log(totalScore);
+let addition = 5 + 4;
+console.log(addition);
+let subtract = 9 - 3;
+console.log(subtract);
+let multiply = 4 * 2;
+console.log(multiply);
+let divide = 20 / 5;
+console.log(divide);
+let remainder = 10 % 3;
+console.log(remainder);
+let expo = 2 ** 3;
+console.log(expo);
+
+let myscore = 100;
+myscore++;
+console.log(myscore);
+myscore -= 20;
+console.log(myscore);
+myscore--;
+console.log(myscore);
+let num1 = 3;
+let num2 = 3;
+let isEqual = num1 === num2;
+console.log(isEqual);
+let isNotEqual = num1 !== num2;
+console.log(isNotEqual);
